@@ -1,0 +1,17 @@
+{
+  "name": "rcpress-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"rcpress dev",
+    "serve":"rcpress serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rcpress/cli": "^0.2.7"
+  }
+}
